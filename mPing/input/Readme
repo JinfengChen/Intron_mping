@@ -1,0 +1,11 @@
+1137 4strains.homo
+171 4strains.heter
+73 4strains.somatic
+51 NB_mping
+2720 heterozygous.RIL.uniq
+7774 homozygous.RIL.uniq
+104 somatic.RIL.uniq
+
+1188 Strains.gff
+7774 RIL.gff
+3068 Somatic.gff
